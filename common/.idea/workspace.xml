@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7765f2d-57a5-4c13-aab8-1f76a06c1786" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1aa33lMjiXu4va8bYZsk9ffqhjX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.wohatel.kafka.scribe" />
+      <recent name="com.github.wohatel.sharding.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Dynaser">
+    <configuration name="Dynaser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.wohatel.kafka.dynaser.Dynaser" />
+      <module name="dubbo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.wohatel.kafka.dynaser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaConsumerStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.wohatel.kafka.scribe.KafkaConsumerStart" />
+      <module name="dubbo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.wohatel.kafka.scribe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaProducerStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.wohatel.kafka.scribe.KafkaProducerStart" />
+      <module name="dubbo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.wohatel.kafka.scribe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaApplicationTests.insertRW" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dubbo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.wohatel.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.wohatel.kafka" />
+      <option name="MAIN_CLASS_NAME" value="com.github.wohatel.kafka.KafkaApplicationTests" />
+      <option name="METHOD_NAME" value="insertRW" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaApplicationTests.selectRW" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dubbo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.wohatel.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.wohatel.kafka" />
+      <option name="MAIN_CLASS_NAME" value="com.github.wohatel.kafka.KafkaApplicationTests" />
+      <option name="METHOD_NAME" value="selectRW" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShardingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.wohatel.kafka.KafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dynaser" />
+        <item itemvalue="Application.KafkaProducerStart" />
+        <item itemvalue="Application.KafkaConsumerStart" />
+        <item itemvalue="JUnit.KafkaApplicationTests.selectRW" />
+        <item itemvalue="JUnit.KafkaApplicationTests.insertRW" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7765f2d-57a5-4c13-aab8-1f76a06c1786" name="Default Changelist" comment="" />
+      <created>1586959680793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586959680793</updated>
+      <workItem from="1586959687431" duration="17210000" />
+      <workItem from="1587135673700" duration="10928000" />
+      <workItem from="1587382274839" duration="41000" />
+      <workItem from="1587382607956" duration="657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="77" key="#Project_Structure" timestamp="1587137131315">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="77" key="#Project_Structure/0.23.1280.777@0.23.1280.777" timestamp="1587137131315" />
+    <state x="257" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587019860662">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="257" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1587019860662" />
+    <state x="453" y="111" key="#com.intellij.ide.util.MemberChooser" timestamp="1587144280413">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="453" y="91" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1586968477035" />
+    <state x="453" y="111" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1587144280413" />
+    <state x="324" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587137167264">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="324" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.777@0.23.1280.777" timestamp="1587137167264" />
+    <state x="403" y="122" key="#xdebugger.evaluate" timestamp="1587219039030">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="403" y="122" key="#xdebugger.evaluate/0.23.1280.777@0.23.1280.777" timestamp="1587219039030" />
+    <state width="413" height="466" key="DebuggerActiveHint" timestamp="1587218965972">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="413" height="466" key="DebuggerActiveHint/0.23.1280.777@0.23.1280.777" timestamp="1587218965972" />
+    <state width="1238" height="146" key="GridCell.Tab.0.bottom" timestamp="1587219001276">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1587019938128" />
+    <state width="1238" height="146" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1587219001276" />
+    <state width="1238" height="146" key="GridCell.Tab.0.center" timestamp="1587219001275">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1587019938118" />
+    <state width="1238" height="146" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1587219001275" />
+    <state width="1238" height="146" key="GridCell.Tab.0.left" timestamp="1587219001274">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1587019938117" />
+    <state width="1238" height="146" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1587219001274" />
+    <state width="1238" height="146" key="GridCell.Tab.0.right" timestamp="1587219001275">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1587019938126" />
+    <state width="1238" height="146" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1587219001275" />
+    <state width="1238" height="146" key="GridCell.Tab.1.bottom" timestamp="1587219001751">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="477" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586968998045" />
+    <state width="1238" height="146" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1587219001751" />
+    <state width="1238" height="146" key="GridCell.Tab.1.center" timestamp="1587219001750">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="477" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1586968998038" />
+    <state width="1238" height="146" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1587219001750" />
+    <state width="1238" height="146" key="GridCell.Tab.1.left" timestamp="1587219001750">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="477" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1586968998037" />
+    <state width="1238" height="146" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1587219001750" />
+    <state width="1238" height="146" key="GridCell.Tab.1.right" timestamp="1587219001750">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="477" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1586968998043" />
+    <state width="1238" height="146" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1587219001750" />
+    <state x="178" y="62" key="Maven.ArtifactSearchDialog" timestamp="1586962886399">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="178" y="62" key="Maven.ArtifactSearchDialog/0.0.1280.800@0.0.1280.800" timestamp="1586962886399" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1587219877069">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="128" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1586962061014" />
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1587219877069" />
+    <state x="394" y="134" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586964980435">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="394" y="134" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.800@0.0.1280.800" timestamp="1586964980435" />
+    <state x="298" y="175" width="683" height="486" key="find.popup" timestamp="1587140644353">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="298" y="157" width="683" height="486" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1586967082302" />
+    <state x="298" y="175" width="683" height="486" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1587140644353" />
+    <state x="17" y="115" key="new project wizard" timestamp="1587384981030">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="17" y="115" key="new project wizard/0.23.1280.777@0.23.1280.777" timestamp="1587384981030" />
+  </component>
+</project>
